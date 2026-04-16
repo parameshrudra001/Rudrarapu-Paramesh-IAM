@@ -23,6 +23,12 @@ Specialization:
   - Okta · Microsoft Entra ID · Azure AD
   - SSO · MFA · SCIM · Zero Trust
   - SAML 2.0 · OAuth 2.0 · OIDC
+  - JML --> Joiner-Mover-Leaver ·  Provisioning-Deprovisioning 
+  - RBAC  ·  ABAC . Access Reviews . Privilege Management
+  - Least Privilege Access . JIT (Just-In-Time Privilege) Access 
+  - L1/L2 IAM Support . Service now, Jira…etc  tickets
+  - Access Tokens . JWT Tokens . ID Tokens . Audit support   
+
 Global Projects:
   - 🇿🇦 South Africa (Netcare)
   - 🇨🇦 Canada (TD Bank)
@@ -42,7 +48,7 @@ Status     : Open to Opportunities ✅
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrarapu-paramesh-446ab632)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramesh.rudra001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rudrarapu-Paramesh-IAM)
 
 </div>
 
@@ -95,6 +101,7 @@ Status     : Open to Opportunities ✅
 
 </td>
 <td width="50%">
+  
 ### 🏦  DQ Entertainment International Limited
 #### 3D Animator
 > Hyderabad, Telangana, India |  Apr 2009 – Aug 2018 
@@ -103,10 +110,6 @@ Status     : Open to Opportunities ✅
 - 📱 Rigged and skinned character models, ensuring smooth deformation and realistic movement.  
 - 🔑 Collaborated with directors and cross-functional teams to deliver shots on schedule.
 
-
-</tr>
-<tr>
-<td width="50%">
 </td>
 </tr>
 </table>
