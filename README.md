@@ -1,18 +1,8 @@
 <div align="center">
 
-<!-- 3D Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:007DC1,100:00D4FF&height=200&section=header&text=Rudrarapu%20Paramesh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IAM%20Engineer%20%7C%20Identity%20%26%20Access%20Management%20Specialist&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:001F3F,50:003566,75:007DC1,100:00D4FF&height=250&section=header&text=Rudrarapu%20Paramesh&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=%20%7C%20IAM%20Engineer%20%7C%20&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🔐+IAM+Engineer+%7C+6%2B+Years+Experience;🛡️+Okta+%7C+Microsoft+Entra+ID+%7C+Azure+AD;🔑+Zero+Trust+%7C+SAML+%7C+OAuth+%7C+OIDC;🌍+Global+Projects+%7C+ZA+%7C+CA+%7C+UAE+%7C+IN;⚙️+PowerShell+%7C+Okta+Workflows+%7C+SCIM" alt="Typing SVG" />
-</a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=007DC1&label=PROFILE+VIEWS" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=00D4FF&labelColor=0D1117&label=FOLLOWERS" />
 
 </div>
 
