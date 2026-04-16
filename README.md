@@ -84,6 +84,7 @@ Status     : Open to Opportunities ✅
 <td width="50%">
 
 ###    Technicolor India
+#### IAM Engineer
 > Bangalore, Karnataka, India |   Jun 2021 – Jun 2022  | Oct 2018 – Sep 2020 
 
 - 🔗 OAdministered Okta and Entra ID for a 5,000-user environment, managing role definitions and approval workflows. 
@@ -94,7 +95,18 @@ Status     : Open to Opportunities ✅
 
 </td>
 <td width="50%">
+### 🏦  DQ Entertainment International Limited
+#### 3D Animator
+> Hyderabad, Telangana, India |  Apr 2009 – Aug 2018 
 
+- 🔄 Animated 3D characters using Autodesk Maya for TV series and film productions.  
+- 📱 Rigged and skinned character models, ensuring smooth deformation and realistic movement.  
+- 🔑 Collaborated with directors and cross-functional teams to deliver shots on schedule.
+
+
+</tr>
+<tr>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -240,15 +252,15 @@ Status     : Open to Opportunities ✅
 ## 📈 IAM Expertise
 
 ```
-🔐 Okta Administration          ████████████████████  98%
-🌐 SSO / Federation             ████████████████████  97%
-📋 SCIM Provisioning            ████████████████████  96%
-🛡️  Zero Trust                  ███████████████████░  94%
-🔑 MFA & Conditional Access     ███████████████████░  93%
-⚙️  PowerShell Automation       ████████████████░░░░  82%
-📊 Compliance & Audit           ████████████████████  96%
-🔒 Identity Governance          ███████████████████░  94%
-🧑‍💼 L1/L2 IAM Support         ████████████████████  99%
+🔐 Okta / Entra ID Administration           ████████████████████  98%
+🌐 SSO / Federation                       ████████████████████  97%
+📋 SCIM Provisioning                      ████████████████████  96%
+🛡️  Zero Trust                            ███████████████████░  94%
+🔑 MFA & Conditional Access              ███████████████████░  93%
+⚙️  PowerShell Automation                ████████████████░░░░  82%
+📊 Compliance & Audit                    ████████████████████  96%
+🔒 Identity Governance                   ███████████████████░  94%
+🧑‍💼 L1/L2 IAM Support                   ████████████████████  99%
 ```
 
 ---
