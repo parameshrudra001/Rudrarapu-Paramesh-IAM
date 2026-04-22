@@ -10,6 +10,8 @@
 
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
+![Image Alt](https://github.com/parameshrudra001/Rudrarapu-Paramesh-IAM/blob/0a2ef48325007327d084bb9a6637ffafab0c8e86/identity-access-mgmt-slide1.png)
+
 ## 🧑‍💻 About Me
 
 ```yaml
@@ -297,6 +299,8 @@ Status     : Open to Opportunities ✅
 </div>
 
 ---
+<img align="right" width="300" src="https://github.com/parameshrudra001/Rudrarapu-Paramesh-IAM/blob/0a2ef48325007327d084bb9a6637ffafab0c8e86/identity-access-mgmt-slide1.png" />
+
 
 <div align="center">
 
