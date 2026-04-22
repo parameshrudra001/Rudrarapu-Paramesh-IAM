@@ -8,9 +8,12 @@
 
 ---
 
+
+
+
+
 <img align="right" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 
-![Image Alt](https://github.com/parameshrudra001/Rudrarapu-Paramesh-IAM/blob/0a2ef48325007327d084bb9a6637ffafab0c8e86/identity-access-mgmt-slide1.png)
 
 ## 🧑‍💻 About Me
 
@@ -299,8 +302,6 @@ Status     : Open to Opportunities ✅
 </div>
 
 ---
-<img align="right" width="300" src="https://github.com/parameshrudra001/Rudrarapu-Paramesh-IAM/blob/0a2ef48325007327d084bb9a6637ffafab0c8e86/identity-access-mgmt-slide1.png" />
-
 
 <div align="center">
 
@@ -308,7 +309,7 @@ Status     : Open to Opportunities ✅
 
 ### 🔐 *Securing Identities. Automating Access. Enabling Zero Trust.*
 
-**📧 paramesh.rudra001@gmail.com &nbsp;·&nbsp; 📞 +91 7842929311**
+**📧 paramesh.rudra001@gmail.com &nbsp;·&nbsp; 📞 +91 9059009148**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrarapu-paramesh-446ab632)
 
