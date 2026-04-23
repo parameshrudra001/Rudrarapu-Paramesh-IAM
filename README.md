@@ -210,7 +210,7 @@ Status     : Open to Opportunities ✅
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 <img src="https://img.shields.io/badge/Okta_Workflows-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+
 
 ### 🛡️ Security & Compliance
 <img src="https://img.shields.io/badge/Zero_Trust-E74C3C?style=for-the-badge" />
