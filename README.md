@@ -289,7 +289,7 @@ Status     : Open to Opportunities ✅
 
 ---
 
-## 📜 Certifications
+## 📜 Online Learning Path Certifications
 
 <div align="center">
 
