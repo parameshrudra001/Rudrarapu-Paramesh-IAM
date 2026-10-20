@@ -25,7 +25,7 @@ Experience:
   Total  : 15+ Years
   IT/IAM : 6 Years
 Specialization:
-  - Okta · Microsoft Entra ID · Azure AD
+  - Okta · Microsoft Entra ID · Azure AD· Sailpoint
   - SSO · MFA · SCIM · Zero Trust
   - SAML 2.0 · OAuth 2.0 · OIDC
   - JML --> Joiner-Mover-Leaver ·  Provisioning-Deprovisioning 
@@ -65,9 +65,8 @@ Status     : Open to Opportunities ✅
 <tr>
 <td width="50%">
 
-### 🏥 Micron Technologies -Contractor
+### 🏥 Mountstring Technologies Pvt Ltd
 #### IAM Engineer
->payroll - Mountstring Technologies
 >>Hyderabad, Telangana, India |   Aug  2023 – Present 
 
 - 🔐 enterprise-wide Zero Trust IAM framework across Azure & on-prem using Okta and Microsoft Entra ID.
