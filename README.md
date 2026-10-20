@@ -308,7 +308,7 @@ Status     : Open to Opportunities ✅
 
 ### 🔐 *Securing Identities. Automating Access. Enabling Zero Trust.*
 
-**📧 paramesh.rudra001@gmail.com &nbsp;·&nbsp; 📞 +91 9059009148**
+**📧 paramesharudrarapu@gmail.com &nbsp;·&nbsp; 📞 +91 8501043466**
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudrarapu-paramesh-446ab632)
 
