@@ -191,9 +191,7 @@ Status     : Open to Opportunities ✅
 ### ☁️ IAM Platforms
 <img src="https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_AD-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/SailPoint-003087?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Ping_Federate-00297A?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 
 ### 🔐 Protocols & Standards
