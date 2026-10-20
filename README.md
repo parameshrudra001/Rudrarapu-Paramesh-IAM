@@ -279,7 +279,7 @@ Status     : Open to Opportunities ✅
 | 🇿🇦 South Africa | Netcare | Healthcare IAM | Apr 2024 – Present |
 | 🇦🇪 UAE / Dubai | Mubarak Marine | Retail & Logistics IAM | Sep 2023 – Mar 2024 |
 | 🇨🇦 Canada | Toronto-Dominion Bank | Banking IAM | Jun 2022 – Oct 2022 |
-| 🇮🇳 India | Micron Technologies-Contractor | Enterprise Zero Trust IAM | Aug 2023 – Present |
+| 🇮🇳 India | Mountstring Technologies Pvt Lts | IAM Engineering | Aug 2023 – Present |
 | 🇮🇳 India | Technicolor India | IAM Engineering | 2018 – 2022 |
 
 </div>
